@@ -1,0 +1,435 @@
+/* Pages informations: */
+/*  */
+/* home page */
+/*  */
+.Right-Page_index
+{
+  width: 25%;
+  float: right;
+  height: 300;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_index
+{
+  width: 10%;
+  float: left;
+  height: 300;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_index
+{
+  width: 65%;
+  float: left;
+  height: 300;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*  */
+/* Countries with limited recognition page*/
+/*  */
+.Right-Page_Countries-with-limited-recognition
+{
+  width: 25%;
+  float: right;
+  height: 3600;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;}
+.Left-Page_Countries-with-limited-recognition
+{
+  width: 10%;
+  float: left;
+  height: 3600;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_Countries-with-limited-recognition
+{
+  width: 65%;
+  float: left;
+  height: 3600;
+}
+/*  */
+/* Iran page */
+/*  */
+.Right-Page_Iran
+{
+  width: 25%;
+  float: right;
+  height: 1300;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_Iran
+{
+  width: 10%;
+  float: left;
+  height: 1300;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_Iran
+{
+  width: 65%;
+  float: left;
+  height: 1300;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*  */
+/* Iran's low water cities page */
+/*  */
+.Right-Page_Irans-low-water-cities
+{
+  width: 25%;
+  float: right;
+  height: 2250;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_Irans-low-water-cities
+{
+  width: 10%;
+  float: left;
+  height: 2250;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_Irans-low-water-cities
+{
+  width: 65%;
+  float: left;
+  height: 2250;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*  */
+/* landlock countrys page */
+/*  */
+.Right-Page_Landlock-countrys
+{
+  width: 25%;
+  float: right;
+  height: 4185;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_Landlock-countrys
+{
+  width: 10%;
+  float: left;
+  height: 4150;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_Landlock-countrys
+{
+  width: 65%;
+  float: left;
+  height: 4150;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*  */
+/* Low water countries page */
+/*  */
+.Right-Page_Low-water-countries
+{
+  width: 25%;
+  float: right;
+  height: 4718;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_Low-water-countries
+{
+  width: 10%;
+  float: left;
+  height: 4718;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_Low-water-countries
+{
+  width: 65%;
+  float: left;
+  height: 4700;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*  */
+/* Methods of optimizing water consumption in agriculture page */
+/*  */
+.Right-Page_Methods-of-optimizing-water-consumption-in-agriculture
+{
+  width: 25%;
+  float: right;
+  height: 3700;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_Methods-of-optimizing-water-consumption-in-agriculture
+{
+  width: 10%;
+  float: left;
+  height: 3700;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_Methods-of-optimizing-water-consumption-in-agriculture
+{
+  width: 65%;
+  float: left;
+  height: 3700;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+/*  */
+/* Methods of optimizing water consumption in home page */
+/*  */
+.Right-Page_Methods-of-optimizing-water-consumption-in-home
+{
+  width: 25%;
+  float: right;
+  height: 3000;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_Methods-of-optimizing-water-consumption-in-home
+{
+  width: 10%;
+  float: left;
+  height: 3000;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_Methods-of-optimizing-water-consumption-in-home
+{
+  width: 65%;
+  float: left;
+  height: 3000;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*  */
+/* water shortage page */
+/*  */
+.Right-Page_water-shortage
+{
+  width: 25%;
+  float: right;
+  height: 1250;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_water-shortage
+{
+  width: 10%;
+  float: left;
+  height: 1250;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_water-shortage
+{
+  width: 65%;
+  float: left;
+  height: 1250;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*  */
+/* salt and fresh waters of the planet */
+/*  */
+.Right-Page_salt-and-fresh-waters-of-the-planet
+{
+  width: 25%;
+  float: right;
+  height: 800;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+.Left-Page_salt-and-fresh-waters-of-the-planet
+{
+  width: 10%;
+  float: left;
+  height: 800;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Mid-Page_salt-and-fresh-waters-of-the-planet
+{
+  width: 65%;
+  float: left;
+  height: 800;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/* and more: */
+body
+{
+  background-image: url(Image/background2.jpg);
+  color: rgb(135, 0, 0);
+  margin: 0 !important;
+}
+.div_body
+{
+  width: 1500px;
+  margin: 0 auto 0;
+  text-align: right;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Top
+{
+  width: 100%;
+  height: 100;
+  text-align: center;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Under
+{
+  width: 100%;
+  clear: both;
+  height: 500;
+  text-align: center;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Subject
+{
+  font-size: 50;
+  color: rgb(0, 0, 100);
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+ul
+{
+  list-style-position: inside;
+}
+p
+{
+  font-size: xx-large;
+}
+table
+{
+  font-size: xx-large;
+}
+.Flags
+{
+  height: 50;
+}
+.Maps
+{
+  width: 800;
+  height: 500;
+  align-items: left;
+}
+.Subject2
+{
+  font-size: 50;
+  color: rgb(0, 0, 100);
+}
+ul
+{
+  font-size: xx-large;
+}
+pre
+{
+  font-size: xx-large;
+}
+.Menu
+{
+  font-size: 20;
+}
+details
+{
+  font-size: xx-large;
+}
+textarea
+{
+  background-color: rgb(117, 174, 174);
+  width: 550;
+}
+input
+{
+  background-color: rgb(117, 174, 174);
+  width: 550;
+  height: 20;
+}
+button
+{
+  background-color: rgb(117, 174, 174);
+  width: 550;
+  height: 20;
+}
