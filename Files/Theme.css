@@ -39,7 +39,7 @@
 {
   width: 25%;
   float: right;
-  height: 3600;
+  height: 3850;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -48,7 +48,7 @@
 {
   width: 10%;
   float: left;
-  height: 3600;
+  height: 3850;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -58,7 +58,7 @@
 {
   width: 65%;
   float: left;
-  height: 3600;
+  height: 3850;
 }
 /*  */
 /* Iran page */
@@ -67,7 +67,7 @@
 {
   width: 25%;
   float: right;
-  height: 1300;
+  height: 1450;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -77,7 +77,7 @@
 {
   width: 10%;
   float: left;
-  height: 1300;
+  height: 1450;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -87,7 +87,7 @@
 {
   width: 65%;
   float: left;
-  height: 1300;
+  height: 1450;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -100,7 +100,7 @@
 {
   width: 25%;
   float: right;
-  height: 2250;
+  height: 2550;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -110,7 +110,7 @@
 {
   width: 10%;
   float: left;
-  height: 2250;
+  height: 2550;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -120,7 +120,7 @@
 {
   width: 65%;
   float: left;
-  height: 2250;
+  height: 2550;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -234,7 +234,7 @@
 {
   width: 25%;
   float: right;
-  height: 3000;
+  height: 3050;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -244,7 +244,7 @@
 {
   width: 10%;
   float: left;
-  height: 3000;
+  height: 3050;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -254,7 +254,7 @@
 {
   width: 65%;
   float: left;
-  height: 3000;
+  height: 3050;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -267,7 +267,7 @@
 {
   width: 25%;
   float: right;
-  height: 1250;
+  height: 1500;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -277,7 +277,7 @@
 {
   width: 10%;
   float: left;
-  height: 1250;
+  height: 1500;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -287,7 +287,7 @@
 {
   width: 65%;
   float: left;
-  height: 1250;
+  height: 1500;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -345,9 +345,38 @@ body
 }
 .Top
 {
-  width: 100%;
+  width: 90%;
   height: 100;
   text-align: center;
+  background-color: black;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Logo
+{
+  width: 10%;
+  align-items: right;
+  text-align: center;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Logo-img
+{
+  width: 150;
+  height: 100;
+  background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.Logo-txt
+{
+  color: black;
+  font-size: xx-large;
   background-image: url(https://www.deco3d.co/tools/picture/sub/deco3d_63731395.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
